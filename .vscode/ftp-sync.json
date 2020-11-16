@@ -1,0 +1,28 @@
+{
+    "remotePath": "/home/icirc/Desktop/KJ/Class_Project/Machine_Learning_3_term_project/submit",
+    "host": "192.168.0.38",
+    "username": "icirc",
+    "password": "icirc72662@",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": true,
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": "/home/icirc/Desktop/KJ/Class_Project/Machine_Learning_3_term_project/submit"
+    }
+}
